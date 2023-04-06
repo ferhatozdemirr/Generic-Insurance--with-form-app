@@ -1,0 +1,16 @@
+C:\Users\ferhat.DESKTOP-I0A0AQM\source\repos\Generic-Sigorta\Generic-Sigorta\bin\Debug\Generic-Sigorta.exe.config
+C:\Users\ferhat.DESKTOP-I0A0AQM\source\repos\Generic-Sigorta\Generic-Sigorta\bin\Debug\Generic-Sigorta.exe
+C:\Users\ferhat.DESKTOP-I0A0AQM\source\repos\Generic-Sigorta\Generic-Sigorta\bin\Debug\Generic-Sigorta.pdb
+C:\Users\ferhat.DESKTOP-I0A0AQM\source\repos\Generic-Sigorta\Generic-Sigorta\obj\Debug\Generic-Sigorta.csproj.AssemblyReference.cache
+C:\Users\ferhat.DESKTOP-I0A0AQM\source\repos\Generic-Sigorta\Generic-Sigorta\obj\Debug\Generic-Sigorta.csproj.SuggestedBindingRedirects.cache
+C:\Users\ferhat.DESKTOP-I0A0AQM\source\repos\Generic-Sigorta\Generic-Sigorta\obj\Debug\Generic_Sigorta.frmMain.resources
+C:\Users\ferhat.DESKTOP-I0A0AQM\source\repos\Generic-Sigorta\Generic-Sigorta\obj\Debug\Generic_Sigorta.Properties.Resources.resources
+C:\Users\ferhat.DESKTOP-I0A0AQM\source\repos\Generic-Sigorta\Generic-Sigorta\obj\Debug\Generic-Sigorta.csproj.GenerateResource.cache
+C:\Users\ferhat.DESKTOP-I0A0AQM\source\repos\Generic-Sigorta\Generic-Sigorta\obj\Debug\Generic-Sigorta.csproj.CoreCompileInputs.cache
+C:\Users\ferhat.DESKTOP-I0A0AQM\source\repos\Generic-Sigorta\Generic-Sigorta\obj\Debug\Generic-Sigorta.exe
+C:\Users\ferhat.DESKTOP-I0A0AQM\source\repos\Generic-Sigorta\Generic-Sigorta\obj\Debug\Generic-Sigorta.pdb
+C:\Users\ferhat.DESKTOP-I0A0AQM\source\repos\Generic-Sigorta\Generic-Sigorta\obj\Debug\Generic_Sigorta.MusteriListesiForm.resources
+C:\Users\ferhat.DESKTOP-I0A0AQM\source\repos\Generic-Sigorta\Generic-Sigorta\obj\Debug\Generic_Sigorta.MusteriEkleForm.resources
+C:\Users\ferhat.DESKTOP-I0A0AQM\source\repos\Generic-Sigorta\Generic-Sigorta\obj\Debug\Generic_Sigorta.FormPolicyAdd.resources
+C:\Users\ferhat.DESKTOP-I0A0AQM\source\repos\Generic-Sigorta\Generic-Sigorta\obj\Debug\Generic_Sigorta.FormPolicyType.resources
+C:\Users\ferhat.DESKTOP-I0A0AQM\source\repos\Generic-Sigorta\Generic-Sigorta\obj\Debug\Generic_Sigorta.FormPolicyGrid.resources
